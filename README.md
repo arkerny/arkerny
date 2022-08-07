@@ -1,1 +1,1 @@
-[![arkerny's GitHub stats](https://github-readme-stats.vercel.app/api?username=arkerny)](https://github.com/anuraghazra/github-readme-stats)
+[![arkerny's GitHub stats](https://github-readme-stats.vercel.app/api?username=arkerny&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
