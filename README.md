@@ -2,7 +2,7 @@ Student of **Hangzhou Dianzi University**
 
 Member of **Vidar Team**
 
-email: arkerny@gmail.com
+E-mail: arkerny@gmail.com
 
 Spoken Languages:
 
