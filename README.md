@@ -1,4 +1,12 @@
-Hangzhou Dianzi University
+Student of **Hangzhou Dianzi University**
 
-[![arkerny's GitHub stats](https://github-readme-stats.vercel.app/api?username=arkerny)](https://github.com/anuraghazra/github-readme-stats)
+Member of **Vidar Team**
 
+email: arkerny@gmail.com
+
+Spoken Languages:
+
+- zh-{cmn,wuu}-Hans-CN
+- en-US
+
+Enjoy Coding...
