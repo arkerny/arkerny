@@ -1,6 +1,6 @@
-Student of **Hangzhou Dianzi University**
+Student of **Hangzhou Dianzi University**, majoring in Software Engineering.
 
-Member of **Vidar Team**
+Member of **Vidar Team**, interested in Cybersecurity.
 
 E-mail: arkerny@gmail.com
 
